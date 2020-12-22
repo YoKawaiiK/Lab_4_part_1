@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lab_4_part_1</string>
+    <string name="textview">TextView</string>
 </resources>
